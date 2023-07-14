@@ -2,16 +2,6 @@ import numpy as np
 
 from methods.basic_mehtods import *
 from methods.basic_mehtods import calc_b
-
-"""n, rows, cols, s_max, x_initial, x_star, u, sig, vt, sigma_min, sigma_max, new_sigma, A_pds, A_pd, b_pd, b_psd, noise_vec \
-    = None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None
-POSITIVE_DEFINITE = True
-num_epochs, num_iters, num_experiments = 10, 1000, 10
-batch_sizes = [10, 100, 1000]
-num_batches = 5
-sgd_values = []
-mini_batch_sgd_values = [[] for _ in batch_sizes]
-svrg_values = []"""
 global n, rows, cols, s_max, x_initial, x_star, u, sig, vt, sigma_min, sigma_max, new_sigma, A_pds, A_pd, b_pd, \
     b_psd, noise_vec
 
