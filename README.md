@@ -1,5 +1,6 @@
-# Optimization Methods im Machine Learning - 96336
+# Optimization Methods im Machine Learning - 096336
 ## Spring 2023
 
 ### Authors
 > Tal Peer tal.peer@campus.technion.ac.il
+> Itay Fakterman itay.fak@campus.technion.ac.il
