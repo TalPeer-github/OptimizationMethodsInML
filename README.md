@@ -5,4 +5,3 @@
 > Tal Peer tal.peer@campus.technion.ac.il <br>
 > Itay Fakterman itay.fak@campus.technion.ac.il
 
-[Some title here](Optimization Methods - Comparision Report.pdf)
